@@ -1,0 +1,4 @@
+Git;platform
+Java;programmeertaal
+Testing;debuggen leren
+cat;desc

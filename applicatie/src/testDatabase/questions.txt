@@ -1,0 +1,5 @@
+eerste vraag;category1;feedback1;juiste antwoord;fout antwoord 1;fout antwoord 2
+tweede vraag;category2;feedback2;juiste antwoord;fout antwoord 1;fout antwoord 2
+derde vraag;Java;feedback3;juiste antwoord;fout antwoord 1;fout antwoord
+Moet ik eerst lezen of schrijven;Git;mag je ni doen ;ja, want ik ben dom;misschien
+vraag;Testing;fafa;b;v
